@@ -33,6 +33,7 @@ Implemented Audio Manager, Haptic Feedback, and Object Pooling for performance.
 <p float="left">
   <img src="assets/lumina/menu.png" width="250" />
   <img src="assets/lumina/gameplay.png" width="250" />
+  <img src="assets/lumina/gameplay2.png" width="250" />
 </p>
 
 🔗 [View Repo](https://github.com/ahmetzerin/lumina)
