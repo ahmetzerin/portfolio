@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hey, I'm Ahmet 👾</h1>
-<h3 align="center">Mobile Game Developer | Unity & C# Enthusiast</h3>
+<h3 align="center">Mobile Game Developer | Unity & C# </h3>
 
 <p align="center">
   <a href="mailto:ahmet.zerin1@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
